@@ -1,1 +1,1 @@
-# miniBase
+# This is not a full-fledged project. This shows how to work with databases, as well as a small example of using fetch. (In the developer tools in the Network section, you'll see the users you've created and submitted);
